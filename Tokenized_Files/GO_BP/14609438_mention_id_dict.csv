@@ -1,0 +1,5 @@
+GO_BP_2016_02_16_Instance_45419,"[['298'], ['308'], 'expression', 'GO:0010467', 'gene expression', '14609438_1']"
+GO_BP_2016_02_16_Instance_45421,"[['4452'], ['4461'], 'expressed', 'GO:0010467', 'gene expression', '14609438_26']"
+GO_BP_2016_02_16_Instance_45427,"[['7120'], ['7130'], 'translated', 'GO:0006412', 'translation', '14609438_43']"
+GO_BP_2016_02_16_Instance_45429,"[['17178'], ['17188'], 'expression', 'GO:0010467', 'gene expression', '14609438_108']"
+GO_BP_2016_02_16_Instance_45431,"[['17244'], ['17251'], 'splices', 'GO:0008380', 'RNA splicing', '14609438_108']"

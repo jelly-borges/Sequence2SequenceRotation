@@ -1,0 +1,5 @@
+MOP_Instance_110003,"[['45491'], ['45503'], 'biotinylated', 'MOP:0000093', 'biotinylation', '15005800_345']"
+MOP_Instance_110009,"[['18051'], ['18064'], 'isomerization', 'MOP:0000789', 'isomerisation', '15005800_139']"
+MOP_Instance_110011,"[['31938'], ['31945'], 'cleaved', 'MOP:0000780', 'breaking of covalent bond', '15005800_261']"
+MOP_Instance_120000,"[['47018'], ['47028'], 'conjugated', 'MOP:0000779', 'formation of covalent bond', '15005800_354']"
+MOP_Instance_150014,"[['27678'], ['27697'], 'covalently attached', 'MOP:0000779', 'formation of covalent bond', '15005800_222']"

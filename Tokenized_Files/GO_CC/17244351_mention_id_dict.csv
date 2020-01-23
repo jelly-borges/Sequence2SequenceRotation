@@ -1,0 +1,7 @@
+GO_CC_2016_02_16_Instance_100925,"[['20463'], ['20471'], 'antibody', 'GO:0042571', 'immunoglobulin complex, circulating', '17244351_143']"
+GO_CC_2016_02_16_Instance_100927,"[['20649'], ['20657'], 'antibody', 'GO:0042571', 'immunoglobulin complex, circulating', '17244351_144']"
+GO_CC_2016_02_16_Instance_100933,"[['22553'], ['22561'], 'antibody', 'GO:0042571', 'immunoglobulin complex, circulating', '17244351_158']"
+GO_CC_2016_02_16_Instance_190025,"[['16475', '16500'], ['16488', '16505'], 'extracellular ... space', 'GO:0005615', 'extracellular space', '17244351_112']"
+GO_CC_2016_02_16_test_Instance_32105,"[['16452'], ['16470'], 'organelle membrane', 'GO:0031090', 'organelle membrane', '17244351_112']"
+GO_CC_2016_02_16_test_Instance_32107,"[['16475'], ['16495'], 'extracellular region', 'GO:0005576', 'extracellular region', '17244351_112']"
+GO_CC_2016_02_16_test_Instance_32109,"[['16612'], ['16634'], 'intercellular junction', 'GO:0005911', 'cell-cell junction', '17244351_114']"

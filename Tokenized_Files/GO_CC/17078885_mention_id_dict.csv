@@ -1,0 +1,6 @@
+GO_CC_2016_02_16_Instance_100650,"[['32201'], ['32211'], 'antibodies', 'GO:0042571', 'immunoglobulin complex, circulating', '17078885_217']"
+GO_CC_2016_02_16_Instance_110000,"[['4471'], ['4478'], 'Activin', 'GO:0048180', 'activin complex', '17078885_22']"
+GO_CC_2016_02_16_Instance_140002,"[['25314'], ['25321'], 'Activin', 'GO:0048180', 'activin complex', '17078885_181']"
+GO_CC_2016_02_16_test_Instance_23105,"[['25297'], ['25304'], 'complex', 'GO:0032991', 'macromolecular complex', '17078885_181']"
+GO_CC_2016_02_16_test_Instance_31795,"[['3543'], ['3559'], 'receptor complex', 'GO:0043235', 'receptor complex', '17078885_17']"
+GO_CC_2016_02_16_test_Instance_31797,"[['25073'], ['25089'], 'receptor complex', 'GO:0043235', 'receptor complex', '17078885_180']"
